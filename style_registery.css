@@ -1,0 +1,13 @@
+body {
+    height: 100%;
+}
+
+.box {
+    border: 0 solid #000;
+}
+.box1{
+    border: 0 solid blue;
+}
+.box2{
+    border: 0 solid green;
+}
